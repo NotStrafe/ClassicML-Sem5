@@ -258,5 +258,5 @@ credentials.*
 __pycache__
 .hf_cache
 
-ex?.ipynb
+ex/
 catboost_info
