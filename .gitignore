@@ -236,7 +236,7 @@ secrets.*
 credentials.*
 
 # Сырые данные
-*.csv
+
 *.tsv
 *.xlsx
 *.xls
